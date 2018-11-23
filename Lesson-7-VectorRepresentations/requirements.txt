@@ -53,7 +53,7 @@ nb_conda=2.2.1=py36_0
 nb_conda_kernels=2.1.1=py36_1
 nbconvert=5.3.1=py36_0
 nbformat=4.4.0=py36h3a5bc1b_0
-notebook=5.7.0=py36_0
+notebook=5.7.2=py36_0
 numpy=1.15.4=py36ha559c80_0
 numpy-base=1.15.4=py36h8128ebf_0
 openssl=1.1.1=he774522_0
@@ -76,7 +76,7 @@ pytz=2018.5=py36_0
 pywinpty=0.5.4=py36_0
 pyyaml=3.13=py36hfa6e2cd_0
 pyzmq=17.1.2=py36hfa6e2cd_0
-requests=2.19.1=py36_0
+requests=2.20.1=py36_0
 scikit-learn=0.20.0=py36heebcf9a_1
 scipy=1.1.0=py36h4f6bf74_1
 send2trash=1.5.0=py36_0
