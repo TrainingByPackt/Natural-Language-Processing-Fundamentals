@@ -1,4 +1,4 @@
-Data scources: <br>
+Data sources: <br>
 
 1) Dataset citation: Daqing Chen, Sai Liang Sain, and Kun Guo, Data mining for the online retail industry:
 A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and 
