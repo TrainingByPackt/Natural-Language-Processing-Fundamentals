@@ -7,4 +7,6 @@ Customer Strategy Management, Vol. 19, No. 3, pp. 197â€“208, 2012
 Url: https://archive.ics.uci.edu/ml/datasets/online+retail#
 2)  Dataset citation: Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering R. He, J. McAuley WWW, 2016 <br>
 Url: http://jmcauley.ucsd.edu/data/amazon/ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Musical_Instruments_5.json.gz 
-3) 
+3) Dataset citation: Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering R. He, J. McAuley WWW, 2016 <br>
+Url: http://jmcauley.ucsd.edu/data/amazon/ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_Lawn_and_Garden_5.json.gz
+4)
