@@ -1,1 +1,1 @@
-Various methods of developing a text classifier have been discussed here.
+Various methods of developing text classifiers have been discussed here.
