@@ -9,4 +9,4 @@ Url: https://archive.ics.uci.edu/ml/datasets/online+retail#
 Url: http://jmcauley.ucsd.edu/data/amazon/ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Musical_Instruments_5.json.gz 
 3) Dataset citation: Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering R. He, J. McAuley WWW, 2016 <br>
 Url: http://jmcauley.ucsd.edu/data/amazon/ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_Lawn_and_Garden_5.json.gz
-4)
+4) The data file 'train_comment_smal.csv'  has been adapted from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data . The original dataset is under CC0, with the underlying comment text being governed by Wikipedia's CC-SA-3.0.
