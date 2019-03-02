@@ -1,0 +1,22 @@
+{
+	"students":[
+		{
+			"name": "Gangaram",
+			"qualification": "B.Tech"
+		},
+		{
+			"name": "Ganga",
+			"qualification": "B.A."
+		},
+		{
+			"name": "Ram",
+			"qualification": "B.Tech",
+			"additional qualification": "M.Tech"
+		},
+		{
+			"name": "Ramlal",
+			"qualification": "B.Music",
+			"other qualification": "Diploma in Music"
+		}
+	]
+}
