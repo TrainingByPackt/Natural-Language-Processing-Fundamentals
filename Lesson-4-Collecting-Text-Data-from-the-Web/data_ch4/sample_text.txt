@@ -1,0 +1,2 @@
+I love text mining
+I am learning Natural Language Processing

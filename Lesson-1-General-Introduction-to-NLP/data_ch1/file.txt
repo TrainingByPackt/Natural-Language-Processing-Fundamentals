@@ -1,0 +1,1 @@
+In this book authored by Sohom Ghosh and Dwight Gunning, we shall learnning how to pracess Natueral Language and extract insights from it. The first four chapter will introduce you to the basics of NLP. Later chapters will describe how to deal with complex NLP prajects. If you want to get early access of it, you should book your order now.
